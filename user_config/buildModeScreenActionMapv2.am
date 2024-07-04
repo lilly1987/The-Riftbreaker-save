@@ -1,0 +1,266 @@
+ActionMapResource
+{
+	name "buildModeScreenActionMapv2"
+	composite_action_map
+	stick_to_action_map
+	key_to_action_map
+	{
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "GUI_CANCEL"
+				}
+
+			}
+
+			key "261"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "GUI_ALTER_2"
+				}
+
+			}
+
+			key "264"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "page_right"
+				}
+
+			}
+
+			key "69"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "GUI_ACCEPT"
+				}
+
+			}
+
+			key "41"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "GUI_ACCEPT"
+				}
+
+			}
+
+			key "13"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "GUI_ALTER_2"
+				}
+
+			}
+
+			key "162"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "GUI_RB"
+				}
+
+			}
+
+			key "279"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "GUI_MOUSE_BUTTON_RIGHT"
+				}
+
+			}
+
+			key "512"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "GUI_LB"
+				}
+
+			}
+
+			key "280"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "upgrade_modifier"
+				}
+
+			}
+
+			key "164"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "GUI_MOUSE_BUTTON_LEFT"
+				}
+
+			}
+
+			key "513"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "GUI_MOUSE_BUTTON_MIDDLE"
+				}
+
+			}
+
+			key "514"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "upgrade_modifier"
+				}
+
+			}
+
+			key "282"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "page_left"
+				}
+
+			}
+
+			key "81"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "GUI_CANCEL"
+				}
+
+			}
+
+			key "27"
+		}
+
+		Pair_int_Vector_KeyActionInfo
+		{
+			value
+			{
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "GUI_ACCEPT"
+				}
+
+			}
+
+			key "260"
+		}
+
+	}
+
+	trigger_to_action_map
+	non_blocking_action_set
+	mouse_axis_action_names
+	{
+		String
+		String
+	}
+
+	mouse_absolute_action_names
+	{
+		String "_aim_left_right_mouse"
+		String "_aim_y_mouse"
+	}
+
+	mouse_wheel_action
+}
+
