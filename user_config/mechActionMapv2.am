@@ -1534,6 +1534,60 @@ ActionMapResource
 					action_name "mass_disassembly"
 				}
 
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "replace_wall_gate_all_picker"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "replace_wall_gate_to_1_energy"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "spawn_resource_deposits_1_carbonium"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "replace_wall_all_picker"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "replace_wall_to_1_energy"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "loot_collecting"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_portal_super"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "tower_railgun_super"
+				}
+
+				KeyActionInfo
+				{
+					value "1.000"
+					action_name "switch_all_map_1_picker"
+				}
+
 			}
 
 			key "1024"
